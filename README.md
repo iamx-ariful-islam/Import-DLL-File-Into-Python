@@ -31,7 +31,7 @@ namespace CalcProject
 First [download](https://www.python.org/downloads/), install and configure [python](https://www.python.org/doc/). Then use the package manager [pip](https://pip.pypa.io/en/stable/) to install on.
 * For create dll file of C#, first write C# code then run, after successfully run goto build folder of project file for collect dll file.
 
-## Task Requirments & Testing Environment
+## Task Requirements & Testing Environment
 this project is developed using all new os, software and tools.
 
 * **Operating System :** Windows10
